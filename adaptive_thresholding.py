@@ -41,5 +41,5 @@ def main() :
 	    cv2.namedWindow(frame_name,cv2.WINDOW_NORMAL)
 	    cv2.resizeWindow(frame_name,size,size)
 
-	if __name__ == "__main__" :
-	    main()
+if __name__ == "__main__" :
+    main()
